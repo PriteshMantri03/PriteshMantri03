@@ -1,6 +1,6 @@
 <div align="center" style="background:#0f172a;padding:30px;border-radius:16px">
 
-<h1 style="color:#38bdf8">YASH LADDA</h1>
+<h1 style="color:#38bdf8">PRITESH MANTRI</h1>
 
 <h3 style="color:#e5e7eb">
 Pre Final-Year Engineering Student • Full-Stack Developer • AI-Oriented
