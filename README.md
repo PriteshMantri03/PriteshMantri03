@@ -3,7 +3,7 @@
 <h1 style="color:#38bdf8">PRITESH MANTRI</h1>
 
 <h3 style="color:#e5e7eb">
-Pre Final-Year Engineering Student • Full-Stack Developer • AI-Oriented
+Final-Year Engineering Student • Full-Stack Developer • AI-Oriented
 </h3>
 
 <p style="color:#94a3b8">
